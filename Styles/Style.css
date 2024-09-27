@@ -6,3 +6,7 @@ body {
 .carouselImage {
     min-height: 800px;
 }
+
+.navbar {
+    background-color: aqua;
+}
