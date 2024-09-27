@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: rgb(39, 177, 219);
 }
+
+.carouselImage {
+    min-height: 800px;
+}
